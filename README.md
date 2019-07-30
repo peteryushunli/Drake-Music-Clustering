@@ -40,8 +40,8 @@ The blue line measures distortion based on clusters (k), and the dotted green li
 ## What metrics do we use?
 I used a standard k-means clustering model on the following numerical data attributes: minutes, popularity, danceability, acousticness, energy, instrumentalness, liveness, loudness, speechiness, tempo and unique word count. I dropped year from the model because it has no inherent significance in distinguishing the musical element of a song. The aggregated results for each cluster are below:
 Now let's dive into each cluster!
-Cluster 0: "The Come Up"
-Money just changed everything, I wonder how life without it would go
+## Cluster 0: "The Come Up"
+*Money just changed everything, I wonder how life without it would go*
 
 
 
@@ -50,9 +50,8 @@ Song Attributes:
 Low tempo and danceability reflect most of the songs' introspective mood and message with few exceptions (Over, Fancy, HYFR)
 High unique word count show a focus on lyricism and storytelling
 
-Cluster 1: "Versatile Hit Maker"
-She say, "Do you love me?" I tell her "Only partly"
-I only love my bed and my momma, I'm sorry
+## Cluster 1: "Versatile Hit Maker"
+*She say, "Do you love me?" I tell her "Only partly", I only love my bed and my momma, I'm sorry*
 
 
 
@@ -62,8 +61,8 @@ High tempo and danceability with the lowest unique word count (average of 8 fewe
 Highest instrumentalness reflect a diverse range of production and sub-genres including trap, bounce, dancehall, etc.
 Contains most of his most popular hits like God's Plan, Nice For What, Passionfruit, Started From the Bottom, Fake Love, One Dance
 
-Cluster 2: "Leader of the New School"
-Drinking every night because we drink to my accomplishments
+## Cluster 2: "Leader of the New School"
+* Drinking every night because we drink to my accomplishments*
 
 
 
@@ -73,8 +72,8 @@ Unliked Cluster 0, these songs have the highest tempo among all clusters making 
 Drake's message here is more braggadocios and focuses on money and status. However, these themes are primarily used to show his status within hip-hop and to standout among his peers
 Many songs are from his sophomore classic, Take Care, including his early hits, Headlines
 
-Cluster 3: "Trap Star"
-Got a sneaker deal and I ain't break a sweat
+## Cluster 3: "Trap Star"
+*Got a sneaker deal and I ain't break a sweat*
 
 
 
@@ -83,8 +82,8 @@ Song Attributes:
 Unique combination of high danceability, tempo and speechiness; mostly fast-paced, catchy rap songs best suited for parties and nightlife
 Contains many similar features from Atlanta rappers like Future, 2Chainz, Quavo and Young Thug
 
-Cluster 4: "In My Feelings"
-I'm just saying you can do better, tell me have you heard that lately?
+## Cluster 4: "In My Feelings"
+*I'm just saying you can do better, tell me have you heard that lately?*
 
 This cluster of songs best exemplify his signature style of moody R&B mixed with emotional rapping on top of muddy low-end bass drums. A popular style that's influenced newer artists like Bryson Tiller, Amir Obe, 6lack and more.
 Song Attributes:
