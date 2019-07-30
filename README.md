@@ -35,6 +35,7 @@ The result here is a bit unclear, but I would argue there is a slight negative t
 Clustering is a form of unsupervised machine learning that "identifies commonalities in the data and reacts based on the presence or absence of such commonalities". In other words, it groups data points together through observed patterns. Since our dataset contains primarily numerical attributes, machine learning can automatically create clusters of songs
 ![Example](https://cdn-images-1.medium.com/max/800/1*X8gDNl-I9Lcj_48CsYVtyA.jpeg)
 ## How many clusters do we create?
+![Elbow Plot](https://cdn-images-1.medium.com/max/800/1*co48otl5fFRIrbx5DAqaAw.png)
 One common way to determine the optimal number of clusters is to use the elbow method, which looks for an "elbow" in the plot where adding an additional cluster (x-axis) results in minimal decrease in distortion (y-axis).
 The blue line measures distortion based on clusters (k), and the dotted green line measures timeThe elbow plot for our data actually shows the ideal number of clusters being 3. However given Drake's famed versatility and the scope of this analysis, it would be very boring to only have 3 groups of Drake songs. Instead, I went with the next ideal number, which was 5.
 ## What metrics do we use?
