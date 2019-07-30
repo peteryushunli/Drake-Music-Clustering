@@ -46,7 +46,6 @@ I used a standard k-means clustering model on the following numerical data attri
 
 Now let's dive into each cluster!
 ## Cluster 0: "The Come Up"
-*Money just changed everything, I wonder how life without it would go*
 ![Cluster List](https://github.com/yushunli2013/yushunli2013.github.io/blob/master/images/Project%20Images/Drake%20Clustering/cluster%200%20list.png)
 
 
@@ -56,7 +55,6 @@ Song Attributes:
 * High unique word count show a focus on lyricism and storytelling
 
 ## Cluster 1: "Versatile Hit Maker"
-*She say, "Do you love me?" I tell her "Only partly", I only love my bed and my momma, I'm sorry*
 ![Cluster List](https://github.com/yushunli2013/yushunli2013.github.io/blob/master/images/Project%20Images/Drake%20Clustering/cluster%201%20list.png)
 
 
@@ -67,7 +65,6 @@ Song Attributes:
 Contains most of his most popular hits like God's Plan, Nice For What, Passionfruit, Started From the Bottom, Fake Love, One Dance
 
 ## Cluster 2: "Leader of the New School"
-* Drinking every night because we drink to my accomplishments*
 ![Cluster List](https://github.com/yushunli2013/yushunli2013.github.io/blob/master/images/Project%20Images/Drake%20Clustering/cluster%202%20list.png)
 
 
@@ -78,7 +75,6 @@ Song Attributes:
 * Many songs are from his sophomore classic, Take Care, including his early hits, Headlines
 
 ## Cluster 3: "Trap Star"
-*Got a sneaker deal and I ain't break a sweat*
 ![Cluster List](https://github.com/yushunli2013/yushunli2013.github.io/blob/master/images/Project%20Images/Drake%20Clustering/cluster%203%20list.png)
 
 
@@ -88,7 +84,6 @@ Song Attributes:
 * Contains many similar features from Atlanta rappers like Future, 2Chainz, Quavo and Young Thug
 
 ## Cluster 4: "In My Feelings"
-*I'm just saying you can do better, tell me have you heard that lately?*
 ![Cluster List](https://github.com/yushunli2013/yushunli2013.github.io/blob/master/images/Project%20Images/Drake%20Clustering/cluster%204%20list.png)
 
 This cluster of songs best exemplify his signature style of moody R&B mixed with emotional rapping on top of muddy low-end bass drums. A popular style that's influenced newer artists like Bryson Tiller, Amir Obe, 6lack and more.
